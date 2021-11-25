@@ -24,7 +24,7 @@ public class StudentService {
 
     private final StudentRepository studentRepository;  //Declare instance of Student Repository.
 
-    @Autowired
+    @Autowired  //Autowired makes sure the above studentRepository instance is injected into the constructor.
     public StudentService(StudentRepository studentRepository) {
         this.studentRepository = studentRepository;
     }

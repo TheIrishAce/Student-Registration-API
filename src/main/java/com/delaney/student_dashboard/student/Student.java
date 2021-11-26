@@ -1,3 +1,12 @@
+/*
+ *   Created by Max Delaney
+ *   24/11/2021
+ *   Tutorial Followed: Amigoscode.
+ *
+ *   Base Student Class
+ *   S01
+ */
+
 package com.delaney.student_dashboard.student;
 
 import javax.persistence.*;

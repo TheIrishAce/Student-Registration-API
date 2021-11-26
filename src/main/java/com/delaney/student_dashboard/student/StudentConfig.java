@@ -1,3 +1,12 @@
+/*
+ *   Created by Max Delaney
+ *   24/11/2021
+ *   Tutorial Followed: Amigoscode.
+ *
+ *   Config File / Create initial students.
+ *   S05
+ */
+
 package com.delaney.student_dashboard.student;
 
 import org.springframework.boot.CommandLineRunner;
